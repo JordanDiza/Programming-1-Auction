@@ -23,3 +23,6 @@ How to start this project:
     + Enter a bid for the lot by calling the makeABid method on
       the Auction object. Pass the number of the lot, the Person
       who is bidding, and the amount of the bid.
+
+      
+      test tst
